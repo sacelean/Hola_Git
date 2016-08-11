@@ -6,7 +6,8 @@ public class Hola_Git {
 		// TODO Auto-generated method stub
 		System.out.println("Hola_Git"
 				+ "Un placer");
-		System.out.println("change");
+		System.out.println("change2");
+		
 	}
 
 }
